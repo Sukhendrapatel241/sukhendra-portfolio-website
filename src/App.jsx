@@ -65,8 +65,8 @@ export default function App() {
               <div className="actions">
                 <a href="mailto:Sukhendrapatel2401@gmail.com" className="btn btn-light">Contact Me</a>
                 <a href="https://github.com/sukhendrapatel241" target="_blank" rel="noreferrer" className="btn btn-cyan">GitHub Profile</a>
-                <a href="https://linkedin.com/in/sukhendra-kumar-patel-05043b141" target="_blank" rel="noreferrer" className="btn btn-outline">LinkedIn</a>
                 <a href="/Sukhendra_Patel__Resume_1.pdf" download className="btn btn-light">Download Resume</a>
+                <a href="https://linkedin.com/in/sukhendra-kumar-patel-05043b141" target="_blank" rel="noreferrer" className="btn btn-outline">LinkedIn</a>
               </div>
             </div>
 
