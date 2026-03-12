@@ -42,7 +42,7 @@ const skills = [
 ];
 
 const stats = [
-  { label: "Years Experience", value: "3+" },
+  { label: "Years Experience", value: "5+" },
   { label: "Projects Built", value: "5" },
   { label: "Core Focus", value: "Data + Automation" },
   { label: "Work Style", value: "Problem Solver" }
