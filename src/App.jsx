@@ -60,9 +60,7 @@ export default function App() {
               <h1>Sukhendra Patel</h1>
               <p className="subtitle">Data Analyst | Python Automation | Web Scraping</p>
               <p className="lead">
-                Detail-oriented professional with 3+ years of experience in technical support, data troubleshooting,
-                and analytics-oriented workflows. Focused on Python automation, data extraction, data cleaning,
-                and practical portfolio projects for analyst roles.
+                Data and customer operations professional with 5+ years of experience in technical support, data operations, and automation across organizations such as Accenture and Amazon. Skilled in SQL, Excel, Power BI, Python, and Web Scraping, with experience in data analysis, dashboard creation, and automation scripts. Proven ability to transform raw data into actionable insights while maintaining strict SLA compliance and delivering high customer satisfaction.
               </p>
               <div className="actions">
                 <a href="mailto:Sukhendrapatel2401@gmail.com" className="btn btn-light">Contact Me</a>
