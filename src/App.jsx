@@ -56,7 +56,7 @@ export default function App() {
         <div className="container hero-card">
           <div className="hero-grid">
             <div>
-              <p className="eyebrow">Premium Data Portfolio</p>
+              <p className="eyebrow">Data Analyst Portfolio</p>
               <h1>Sukhendra Patel</h1>
               <p className="subtitle">Data Analyst | Python Automation | Web Scraping</p>
               <p className="lead">
